@@ -17,6 +17,9 @@ po przecinku. Uzyj funkcji System.out.printf().
 
     public static void main(String[] args) {
         double num = 5.8932341;
+
+
+
         System.out.printf("%.2f\n", num);
         System.out.printf("%.4f\n", num);
 
